@@ -8,6 +8,7 @@ public class PlayerController : MonoBehaviour
     public float speed;
     private Vector3 movePos;
 
+
     private void MovePlayer()
     {
         // moves the player
@@ -16,6 +17,7 @@ public class PlayerController : MonoBehaviour
     private void Jump()
     {
        //makes player jump
-    }//
+    }
+
     
 }
